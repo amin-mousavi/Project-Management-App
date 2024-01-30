@@ -7,7 +7,7 @@
 ##### Here's features included in this project
 
 - Add, Edit and Delete Project
-- Add Task to projects
+- Add Tasks to projects
 - Delete Tasks
 
 ### Technologies Used:
@@ -20,7 +20,7 @@
 
 ---
 
-##### To start the project along with me just download the start-up file and run available script
+##### To start the project along with me just download the start-up file and run the available script
 
 ```javascript
 // first install all necessary dependencies
